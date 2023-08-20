@@ -8,12 +8,9 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
   - [Screenshot](#screenshot)
   - [Links](#links)
 - [My process](#my-process)
-  - [Built with](#built-with)
   - [What I learned](#what-i-learned)
   - [Continued development](#continued-development)
-  - [Useful resources](#useful-resources)
 - [Author](#author)
-- [Acknowledgments](#acknowledgments)
 
 
 
@@ -23,10 +20,10 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Screenshot
 **Desktop**
-![desktop version](images/desktop.png)
+![desktop version](qr-code-component-main\qr-code-component-main\screenshots\desktop.png)
 
 **Mobile**
-![mobile version](images/mobile.png)
+![mobile version](qr-code-component-main\qr-code-component-main\screenshots\mobile.png)
 
 ### Links
 
@@ -37,21 +34,21 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Built with
 
--HTML5
--CSS
--Flexbox
+- HTML5
+- CSS
+- Flexbox
 
 
 ### What I learned
 
-*I learned how to use flexbox in centering divs
-*Resetting the stylesheet provided by browser for smoother personal styling.
+* I learned how to use flexbox in centering divs
+* Resetting the stylesheet provided by browser for smoother personal styling.
 
 
 ### Continued development
 
--In my future solution,I want to get more comfortable with using flexbox.
--I was confused with positioning of divs during the course of this project,and hence would like to work on my basic understanding of CSS.
+- In my future solution,I want to get more comfortable with using flexbox.
+- I was confused with positioning of divs during the course of this project,and hence would like to work on my basic understanding of CSS.
 
 
 ## Author
